@@ -43,7 +43,7 @@ GET /transactions/{account_number}/?received
 ### get account balance
 GET /balance/{account_number}/
 
-#Important - Barear Token for requests
+# Important - Barear Token for requests
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NTc0OTc0MTUsImRhdGEiOnsiaWQiOiI3ZjQzOTAwZi04ZGQzLTRlMDQtYTEzNi1mNWUyNzkxMmMxMWIiLCJpc0FkbWluIjpmYWxzZX0sImlhdCI6MTU1Njg5MjYxNX0.mfiVFYWThY1BEvwyTWVf-S2TxkNnRSJ8hXE2AC_ecL0
 
 
