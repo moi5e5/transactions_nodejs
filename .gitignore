@@ -1,0 +1,9 @@
+/dist
+/db/config.json
+.env
+/docs
+/uploads
+/node_modules
+.DS_Store
+*.dump
+*.sql
