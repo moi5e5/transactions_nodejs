@@ -27,7 +27,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "csv-parse": "^4.3.3",
     "email-templates": "^2.7.1",
     "express": "^4.17.1",
