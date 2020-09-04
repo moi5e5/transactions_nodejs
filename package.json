@@ -68,7 +68,7 @@
     "concurrently": "^4.1.0",
     "dotenv": "^6.2.0",
     "nodemon": "^1.18.9",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "typedoc": "^0.14.2"
   },
   "nodemonConfig": {
