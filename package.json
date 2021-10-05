@@ -38,7 +38,7 @@
     "fastify-oas": "^v1.1.1",
     "fastify-plugin": "^1.4.0",
     "fastify-sensible": "^1.0.0",
-    "fastify-static": "^1.1.0",
+    "fastify-static": "^4.2.4",
     "firebase": "^5.8.2",
     "firebase-admin": "^7.0.0",
     "fs-extra": "^7.0.1",
