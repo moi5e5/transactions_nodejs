@@ -34,7 +34,7 @@
     "fastify": "^1.14.1",
     "fastify-cors": "^1.0.0",
     "fastify-file-upload": "^2.0.1",
-    "fastify-multipart": "^0.6.0",
+    "fastify-multipart": "^5.3.1",
     "fastify-oas": "^v1.1.1",
     "fastify-plugin": "^1.4.0",
     "fastify-sensible": "^1.0.0",
